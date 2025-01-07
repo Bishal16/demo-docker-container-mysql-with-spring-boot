@@ -1,5 +1,4 @@
 package dev.mahathir.demodockercontainermysqlwithspringboot.controller;
-
 import dev.mahathir.demodockercontainermysqlwithspringboot.entity.User;
 import dev.mahathir.demodockercontainermysqlwithspringboot.repossitory.UserRepository;
 import org.springframework.http.ResponseEntity;
